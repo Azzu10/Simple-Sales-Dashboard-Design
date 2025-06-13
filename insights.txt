@@ -1,0 +1,4 @@
+1. The West region recorded the highest total sales, followed closely by the East region.
+2. Among all product categories, Technology performed the best with over 36% share in sales.
+3. Monthly sales remained relatively stable but showed a gradual decline after 2015.
+4. The South region has the lowest sales performance across all periods.
